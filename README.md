@@ -1,5 +1,4 @@
-# RCGI-SDGs
-RCGI impact on SDGs (machine learning analysis)
+# RCGI impact on SDGs (machine learning analysis)
 
 In this environment, we have conducted an analysis to see how the papers published on behalf of the Research Centre for Gas Innovation are related to the SGDs. In addition, we have also checked the public perception of the researchers on the topic.
 
